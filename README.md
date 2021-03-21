@@ -7,5 +7,6 @@ Esta es una practica para usar GitHub
 
 # Funcionalidades
 
+- Enseñar mediante juegos interactivos figuras geometricas.
 
 # Referencias
