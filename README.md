@@ -2,10 +2,10 @@
 Esta es una practica para usar GitHub
 
 
-#Instalación
+# Instalación
 
 
-#Funcionalidades
+# Funcionalidades
 
 
-#Referencias
+# Referencias
